@@ -7,16 +7,16 @@ Projects from CS-250: Software Development Life Cycle.
 
 ## How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
-To get a good interpretation of users’ needs the team would start with system analysis. This can be done by asking for feedback from the old users and covering that feedback when modifying the source code. The specific inputs and outputs for the system should be identified and refined.
+To accurately interpret user needs, the team should begin with a thorough system analysis. This can be achieved by gathering feedback from existing users and incorporating it when modifying the source code. It's essential to identify and refine the system's specific inputs and outputs during this process.
 
-A user story is a wonderful way to express users' needs. It is a tool that is used mostly in Agile development that can help understand the perspective of the end-user. It helps in understanding what the users' want.
+A user story is an excellent way to capture and express user needs. Commonly used in Agile development, it serves as a valuable tool for understanding the end-user's perspective and clarifying what users want.
 
 ## How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
 
-Developing programs can be approached by various project management strategies. Waterfall methodology is one such strategy. Waterfall helps in projecting the needs and adopting specific strategies. Other approaches are iterative, prototyping, agile, and incremental approaches.
+Program development can be guided by various project management strategies. One such approach is the Waterfall methodology, which aids in outlining requirements and adopting targeted strategies. Other methods include iterative, prototyping, Agile, and incremental approaches.
 
-The most common and popular agile processes that should be included are Crystal, Scrum, Extreme Programming, etc. These approaches and processes offer unique ways to work with testing, planning, and integration.
+The most common and widely adopted Agile processes include Crystal, Scrum, and Extreme Programming. Each of these approaches offers distinct methods for managing testing, planning, and integration.
 
 ## What does it mean to be a good team member in software development?
 
-A good team member follows the team standards and project styles in the coding and design process. It is important to maintain a sense of progress in the team. All aspects of the project development should be considered. One should also react in a friendly way and own up to one's responsibilities.
+A good team member adheres to the team's standards and project styles throughout the coding and design process. Maintaining a sense of progress within the team is essential. Every aspect of project development should be carefully considered. Additionally, it's important to respond constructively and take responsibility for one's tasks.
